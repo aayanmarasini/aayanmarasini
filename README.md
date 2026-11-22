@@ -4,8 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aayan+Marasini;18+%7C+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Cybersecurity+%26+Coding+Enthusiast+%F0%9F%94%90;Learning+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=aayanmarasini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aayanmarasini)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aayanmarasini__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayan-marasini-444b48435)
 
@@ -86,10 +87,10 @@ I love learning how systems work and how to keep them secure 🛡️. Always exp
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=aayanmarasini&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayanmarasini&layout=compact&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=aayanmarasini&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -97,6 +98,7 @@ I love learning how systems work and how to keep them secure 🛡️. Always exp
 
 ## 📫 Connect With Me
 
+- 🐙 GitHub: [aayanmarasini](https://github.com/aayanmarasini)
 - 📸 Instagram: [@aayanmarasini__](https://www.instagram.com/aayanmarasini__)
 - 💼 LinkedIn: [Aayan Marasini](https://linkedin.com/in/aayan-marasini-444b48435)
 
