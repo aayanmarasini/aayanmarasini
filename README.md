@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aayan%20Marasini&fontSize=50&fontColor=ffffff)
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aayan+Marasini;Cybersecurity+Enthusiast+%F0%9F%94%90;Python+%26+Linux+Learner+%F0%9F%90%8D;Future+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Learn.+Build.+Secure.+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="./banner.svg" alt="Aayan Marasini - terminal banner" width="100%"/>
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aayanmarasini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -16,15 +16,26 @@
 
 ## 👋 About Me
 
-Hi, I'm **Aayan Marasini** 😎
+Hey, I'm **Aayan Marasini**. I'm 18 and I'm from **Nepal** 🇳🇵
 
-- 🔐 Cybersecurity enthusiast who loves breaking things to learn how to secure them
-- 💻 Coder building small security tools and projects
-- 🌱 Currently learning: Linux, Networking, Python for security, OWASP Top 10
-- 🎮 Practicing on TryHackMe / Hack The Box
-- 🎯 Goal: Become a skilled ethical hacker 🛡️
+I'm a beginner, and I'm not going to pretend otherwise. I got into cybersecurity and coding because I like knowing *how things actually work*. For me, the best way to learn how to protect something is to understand how it breaks. So I break things, but only on my own machine and on legal practice labs.
 
-> Learn. Build. Secure. 🚀
+I make a lot of mistakes, I get stuck a lot, and I google a lot. That's how I'm learning, and I'm fine with it.
+
+**Right now I'm learning:**
+- 🐧 Linux (living in the terminal more every day)
+- 🌐 Networking basics
+- 🐍 Python, mostly small scripts to automate boring stuff
+- 🔐 Web security and the OWASP Top 10
+
+**What I'm doing to get better:**
+- Practicing on TryHackMe and Hack The Box
+- Building small security tools and projects
+- Trying out tools like Nmap and Burp Suite
+
+**My goal:** become a skilled ethical hacker. I'm not there yet, but I'm a bit closer than I was yesterday.
+
+> Learn. Build. Secure.
 
 ---
 
@@ -81,39 +92,16 @@ Hi, I'm **Aayan Marasini** 😎
 
 ---
 
-## 🔐 Cybersecurity Journey
-
-- 🧠 Learning Linux & Networking fundamentals
-- 🌐 Studying Web Security & OWASP Top 10
-- 🐍 Writing Python scripts for security automation
-- 🔍 Exploring tools like Nmap & Burp Suite
-- 🎮 Practicing on TryHackMe / Hack The Box
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=aayanmarasini&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayanmarasini&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=aayanmarasini&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 - 🐙 GitHub: [aayanmarasini](https://github.com/aayanmarasini)
 - 📸 Instagram: [@aayanmarasini_](https://www.instagram.com/aayanmarasini_)
 - 💼 LinkedIn: [Aayan Marasini](https://linkedin.com/in/aayan-marasini-444b48435)
 
+If you're also learning cybersecurity, say hi. I'd love to learn together. 🤝
+
 <div align="center">
 
-💬 *"Security is not a product, it's a process."* 🔐
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+*"Security is not a product, it's a process."*
 
 </div>
