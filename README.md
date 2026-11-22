@@ -18,11 +18,9 @@
 
 ## About
 
-I'm Aayan, 18, from Nepal. I'm a beginner in cybersecurity and coding, and I'm building my foundation step by step.
+I'm Aayan, 18, from Nepal. I'm a beginner in cybersecurity and coding, still building my base.
 
-What pulled me in is simple: I want to understand how systems really work, and how they fail. To defend something properly, you first need to know how it can be attacked. So I practice on my own setup and legal labs, break things on purpose, and then learn how to fix them.
-
-My goal is to become a skilled ethical hacker.
+To me, cybersecurity isn't just about tools. Tools help, but the real skill is understanding how a system works, because that's how you figure out where it can break. That's what I'm focusing on right now.
 
 | | |
 |---|---|
