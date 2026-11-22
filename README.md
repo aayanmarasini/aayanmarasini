@@ -18,17 +18,11 @@
 
 ## About
 
-I'm Aayan, 18, from Nepal. I'm a beginner in cybersecurity and coding, still building my base.
+> **Cybersecurity isn't just about tools. It's about understanding how systems work.**
 
-To me, cybersecurity isn't just about tools. Tools help, but the real skill is understanding how a system works, because that's how you figure out where it can break. That's what I'm focusing on right now.
+Hi, I'm Aayan, 18, from Nepal. I'm a beginner in cybersecurity and coding, still building my base.
 
-| | |
-|---|---|
-| **Location** | Nepal |
-| **Age** | 18 |
-| **Interests** | Cybersecurity, Ethical Hacking, Coding |
-| **Practice** | TryHackMe, Hack The Box |
-| **Main OS** | Linux |
+Tools help, but the real skill is knowing how a system works, because that's how you figure out where it can break. That's what I'm focusing on right now: learning how things work first, and then how they fail.
 
 ---
 
@@ -96,7 +90,5 @@ To me, cybersecurity isn't just about tools. Tools help, but the real skill is u
 If you're also learning cybersecurity, feel free to reach out.
 
 <div align="center">
-
-*"Security is not a product, it's a process."* — Bruce Schneier
 
 </div>
