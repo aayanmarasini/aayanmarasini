@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aayan+Marasini;18+%7C+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Cybersecurity+%26+Coding+Enthusiast+%F0%9F%94%90;Learning+Ethical+Hacking+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aayan+Marasini;Cybersecurity+Enthusiast+%F0%9F%94%90;Python+%26+Linux+Learner+%F0%9F%90%8D;Future+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Learn.+Build.+Secure.+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aayanmarasini&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
@@ -18,13 +18,13 @@
 
 Hi, I'm **Aayan Marasini** 😎
 
-- 🎂 **Age:** 18
-- 🌏 **From:** Nepal 🇳🇵
-- 💻 **Interests:** Coding & Cybersecurity 🔐
-- 🌱 **Currently learning:** Linux, Networking, Python for security, Web security (OWASP Top 10)
-- 🎯 **Goal:** Become a skilled ethical hacker and build a career in cybersecurity
+- 🔐 Cybersecurity enthusiast who loves breaking things to learn how to secure them
+- 💻 Coder building small security tools and projects
+- 🌱 Currently learning: Linux, Networking, Python for security, OWASP Top 10
+- 🎮 Practicing on TryHackMe / Hack The Box
+- 🎯 Goal: Become a skilled ethical hacker 🛡️
 
-I love learning how systems work and how to keep them secure 🛡️. Always exploring, building projects 🚀, and growing step by step toward a career in tech.
+> Learn. Build. Secure. 🚀
 
 ---
 
@@ -42,7 +42,6 @@ I love learning how systems work and how to keep them secure 🛡️. Always exp
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
