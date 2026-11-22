@@ -18,23 +18,11 @@
 
 ## About Me
 
-<div align="center">
+Hi, I'm Aayan, an 18-year-old from Nepal. I'm learning cybersecurity and coding from the ground up.
 
-### Hi, I'm Aayan
+I'm still a beginner, but I'm serious about it. What interests me most is how systems actually work under the hood. Once you understand how something is supposed to run, it gets a lot easier to see where it can break.
 
-**18 &nbsp;|&nbsp; Nepal &nbsp;|&nbsp; Beginner in Cybersecurity & Coding**
-
-</div>
-
-I'm still building my base, and what interests me most is how systems actually work under the hood. If you know how something is supposed to run, you can figure out where it can break. This is how I try to learn:
-
-<div align="center">
-
-| 01 &nbsp;&nbsp; UNDERSTAND | 02 &nbsp;&nbsp; FIND THE WEAK SPOT | 03 &nbsp;&nbsp; FIX IT |
-|:---:|:---:|:---:|
-| How a system is supposed to work | Where and why it can fail | How to make it secure |
-
-</div>
+I'm focused on building strong basics first: Linux, networking, Python and web security. I'd rather learn one thing properly than rush through ten.
 
 ---
 
@@ -96,7 +84,6 @@ I'm still building my base, and what interests me most is how systems actually w
 
 - I only test on systems I own or on legal practice platforms
 - I write down what I learn, so I don't forget it and others can use it too
-- I'd rather understand one thing properly than rush through ten
 
 ---
 
