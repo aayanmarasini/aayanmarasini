@@ -16,18 +16,17 @@
 
 ---
 
-## About
+## About Me
 
 <div align="center">
 
-### Cybersecurity isn't just about tools.
-### It's about understanding how systems work.
+### Hi, I'm Aayan
+
+**18 &nbsp;|&nbsp; Nepal &nbsp;|&nbsp; Beginner in Cybersecurity & Coding**
 
 </div>
 
-Hi, I'm Aayan, 18, from Nepal. I'm a beginner in cybersecurity and coding, still building my base.
-
-Tools help, but the real skill is knowing how a system works, because that's how you figure out where it can break. This is how I try to learn:
+I'm still building my base, and what interests me most is how systems actually work under the hood. If you know how something is supposed to run, you can figure out where it can break. This is how I try to learn:
 
 <div align="center">
 
