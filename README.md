@@ -18,11 +18,24 @@
 
 ## About
 
-> **Cybersecurity isn't just about tools. It's about understanding how systems work.**
+<div align="center">
+
+### Cybersecurity isn't just about tools.
+### It's about understanding how systems work.
+
+</div>
 
 Hi, I'm Aayan, 18, from Nepal. I'm a beginner in cybersecurity and coding, still building my base.
 
-Tools help, but the real skill is knowing how a system works, because that's how you figure out where it can break. That's what I'm focusing on right now: learning how things work first, and then how they fail.
+Tools help, but the real skill is knowing how a system works, because that's how you figure out where it can break. This is how I try to learn:
+
+<div align="center">
+
+| 01 &nbsp;&nbsp; UNDERSTAND | 02 &nbsp;&nbsp; FIND THE WEAK SPOT | 03 &nbsp;&nbsp; FIX IT |
+|:---:|:---:|:---:|
+| How a system is supposed to work | Where and why it can fail | How to make it secure |
+
+</div>
 
 ---
 
@@ -58,8 +71,10 @@ Tools help, but the real skill is knowing how a system works, because that's how
 ![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0d1117?style=for-the-badge&logo=virtualbox&logoColor=183A61)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Notion](https://img.shields.io/badge/Notion-0d1117?style=for-the-badge&logo=notion&logoColor=white)
 
 **Web & Data**
 
@@ -70,6 +85,11 @@ Tools help, but the real skill is knowing how a system works, because that's how
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-0d1117?style=for-the-badge&logo=apache&logoColor=D22128)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+
+**Hosting**
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
 ---
 
